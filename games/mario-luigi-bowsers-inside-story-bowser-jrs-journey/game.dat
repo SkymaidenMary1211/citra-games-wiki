@@ -1,0 +1,10 @@
+title = "Mario & Luigi: Bowser's Inside Story + Bowser JR.'s Journey"
+description = "When Bowser eats a strange mushroom, he inhales Mario, Luigi, Peach, and others in the castle! Switch gameplay from Bowser in the overworld to Mario & Luigi inside Bowser as they try to escape!\n\nPublisher: Nintendo\nGenre: Puzzle, RPG"
+needs_system_files = false
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "00040000001D1400"
+region = "usa"
+release_date = "2019-01-11"
